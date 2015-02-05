@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.Oculus Heli.CSharp", "UnityVS.Oculus Heli.CSharp.csproj", "{40AF6234-C537-F1DB-FC52-A676A40AFAE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.Oculus Heli.CSharp.Plugins", "UnityVS.Oculus Heli.CSharp.Plugins.csproj", "{12519399-7B63-DB2D-FB43-6366F22CBE0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.Oculus Heli.CSharp.Editor", "UnityVS.Oculus Heli.CSharp.Editor.csproj", "{1F63C7C3-423B-03A5-17C1-8950C2CDF2E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40AF6234-C537-F1DB-FC52-A676A40AFAE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40AF6234-C537-F1DB-FC52-A676A40AFAE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40AF6234-C537-F1DB-FC52-A676A40AFAE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40AF6234-C537-F1DB-FC52-A676A40AFAE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12519399-7B63-DB2D-FB43-6366F22CBE0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12519399-7B63-DB2D-FB43-6366F22CBE0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12519399-7B63-DB2D-FB43-6366F22CBE0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12519399-7B63-DB2D-FB43-6366F22CBE0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F63C7C3-423B-03A5-17C1-8950C2CDF2E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F63C7C3-423B-03A5-17C1-8950C2CDF2E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F63C7C3-423B-03A5-17C1-8950C2CDF2E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F63C7C3-423B-03A5-17C1-8950C2CDF2E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
